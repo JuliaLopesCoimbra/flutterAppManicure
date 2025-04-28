@@ -10,26 +10,28 @@ Este sistema é uma aplicação Flutter desenvolvida para gerenciar agendamentos
 Você pode se conectar como **manicure** ou **cliente**.  
 *Caso ainda não tenha uma conta, pode se registrar rapidamente.*
 
-*Imagem 1*
+![Imagem exemplo](img1.jpeg)
+![Imagem exemplo](img4.jpeg)
 
 ### Tela de Registro
 Cadastro de nome, e-mail, senha, CPF, sexo, idade e endereço completo.  
 O preenchimento do endereço é facilitado com a busca automática de dados pelo CEP, usando integração com a API ViaCEP.
 
-*Imagem 2 e Imagem 3*
+![Imagem exemplo](img3.jpeg)
 
 ---
 
 ## 🔄 Fluxo de Agendamento
 
 - Após o login, o cliente pode visualizar as **manicures disponíveis** e **reservar um horário**.  
-  *Imagem 5 e Imagem 6*
+![Imagem exemplo](img5.jpeg)
+![Imagem exemplo](img6.jpeg)
 
 - A manicure pode visualizar as **reservas recebidas** e **confirmar ou não** os horários solicitados.  
-  *Imagem 7*
+  ![Imagem exemplo](img7.jpeg)
 
 - Quando o horário é confirmado, o **cliente é notificado** que seu agendamento foi aprovado.  
-  *Imagem 8*
+![Imagem exemplo](img8.jpeg)
 
 ---
 
