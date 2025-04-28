@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "590407645047",
+    "project_id": "appmanicure-cdd73",
+    "storage_bucket": "appmanicure-cdd73.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590407645047:android:4d471cd5d10197961c5372",
+        "android_client_info": {
+          "package_name": "com.example.appmanicure"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHH-Vv-Lf33s7OSYolUwnUiuDpoxfpVUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
